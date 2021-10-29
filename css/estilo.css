@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body{
+	
+	background-image: URL(../img/paper3.jpg);
+
+    font-family: Verdana;
+	
+}
+h1{
+	
+	font-variant: small-caps;
+	
+}
+h2{
+    text-transform: uppercase;
+	
+	text-shadow: 1px 1px #4682B4;
+	
+}
+.foto{
+
+    float: right;
+
+    width: 200px;
+	
+}
+.icone{
+	
+    width: 50px;
+    
+}
